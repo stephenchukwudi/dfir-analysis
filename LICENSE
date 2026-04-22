@@ -1,21 +1,52 @@
-MIT License
+# DFIR Analysis
 
-Copyright (c) 2026 Stephen Chigozie Chukwudi
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Overview
+Collection of tools, scripts, and analysis for **Digital Forensics & Incident Response (DFIR)**. 
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This repository demonstrates practical skills in memory analysis, artifact parsing, election forensics, and cybersecurity investigations.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### Featured Case Study
+**Digital Forensics & Cybersecurity Analysis of Oru West State Constituency 2019 Election**  
+*(Forms EC8C & EC8E obtained via FOI request)*
+
+**BSc Cyber Security Case Study**  
+National Open University of Nigeria (NOUN)
+
+**Focus Areas:**
+- Data integrity verification between EC8C (LGA collation) and EC8E (declaration of result)
+- Chain of custody documentation
+- Metadata analysis on scanned forms
+- Electoral cybersecurity risks in Nigeria’s manual collation process
+
+### Key Capabilities
+- Memory forensics and dump analysis
+- System artifact parsing and timeline generation
+- Election data forensics and anomaly detection
+- Custom Python scripts for DFIR workflows
+
+### Technologies
+- **Python 3**
+- Volatility (or equivalent memory forensics tools)
+- Pandas / NumPy for data analysis
+- Git for version control
+
+### Repository Structure (Planned)
+### For Recruiters, Employers & Visa Applications
+This portfolio demonstrates **hands-on Digital Forensics and Incident Response (DFIR)** skills through a real-world Nigerian election forensics case study conducted as part of my BSc Cyber Security program at the National Open University of Nigeria (NOUN).
+
+It highlights my ability to:
+- Verify data integrity between election collation forms (EC8C and EC8E)
+- Review chain of custody and documentation processes
+- Perform metadata analysis on official documents
+- Assess cybersecurity and procedural risks in Nigeria’s manual election collation system
+
+---
+
+**Stephen Chigozie Chukwudi**  
+Abuja, Nigeria  
+Matric No: NOU261117497  
+GitHub: [stephenchukwudi](https://github.com/stephenchukwudi)  
+Email: stephenokorogu@gmail.com  
+Phone: 09165083224
